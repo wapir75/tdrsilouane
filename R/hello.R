@@ -22,7 +22,7 @@ double <- function (x) {
 
 cadeau <- function(prenom) {
 
-    paste("Hey", prenom, "I give u a night with me ! Come meet me on giveyourcardnumber.com")
+    paste("Hey", prenom, "t'es trop chuad mais vazy t nul")
 }
 cadeau("Silouane")
 
