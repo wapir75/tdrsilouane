@@ -13,7 +13,17 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
-cadeau <- function(prenom) {
-   paste("Hey", prenom, "I give u a night with me ! Come meet me on giveyourcardnumber.com")
+
+
+double <- function (x) {
+  x*2
 
 }
+
+cadeau <- function(prenom) {
+
+    paste("Hey", prenom, "I give u a night with me ! Come meet me on giveyourcardnumber.com")
+}
+cadeau("Silouane")
+
+
